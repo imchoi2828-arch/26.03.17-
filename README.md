@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![KakaoAPI](https://img.shields.io/badge/Kakao_API-FFE812?style=for-the-badge&logo=kakao&logoColor=black)
 
-**🔗 https://github.com/imchoi2828-arch/olist_ai_project**
+**🔗 https://imchoi2828-arch.github.io/26.03.17-/
 
 </div>
 
@@ -404,8 +404,6 @@ cd kyobo-clone
 ## 🔗 참고
 
 - [Kakao Developers — 도서 검색 API 공식 문서](https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book)
-- [교보문고](https://www.kyobobook.co.kr)
-
 ---
 
 <div align="center">
